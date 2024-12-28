@@ -10,4 +10,4 @@ button = tk.Button(text = "Click me!")
 button.pack()
 tk.mainloop()
 
-# ACTIVITY DOES NOT RUN ON VSC, OPEN REPLIT TO RUN
+# ACTIVITY DOES NOT RUN ON VSC, OPEN REPLIT > TKINTER TO RUN
