@@ -49,4 +49,4 @@ name_entry.pack()
 btn.pack()
 text_box.pack()
 
-# ACTIVITY DOES NOT RUN ON VSC, OPEN REPLIT TO RUN
+# ACTIVITY DOES NOT RUN ON VSC, OPEN REPLIT > TKINTER TO RUN
